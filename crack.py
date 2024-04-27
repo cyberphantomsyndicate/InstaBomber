@@ -4,7 +4,7 @@ from colorama import Fore ,Back ,Style ,init
 init (autoreset =True )
 def startMessage ():
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")8
-    OOOO0OO000OO0OOOO ="iloveu"
+    OOOO0OO000OO0OOOO ="m146"
     if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :
         print (Fore .RED +'[X] Wrong Code')
         print (Fore .BLUE +''' 
