@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
 import time 
 from colorama import Fore ,Back ,Style ,init 
 init (autoreset =True )
 def startMessage ():
     OO0O0OO0OOO0OO0O0 =input (Fore .YELLOW +"Enter Code To Unlock The Tool : ")8
-    OOOO0OO000OO0OOOO ="m146"
+    OOOO0OO000OO0OOOO ="CPS"
     if OOOO0OO000OO0OOOO !=OO0O0OO0OOO0OO0O0 :
         print (Fore .RED +'[X] Wrong Code')
         print (Fore .BLUE +''' 
@@ -19,7 +18,7 @@ def startMessage ():
         print (Fore .GREEN +"Successfully Unlocked Tool!")#line:21
         pass #line:22
 if __name__ =="__main__":#line:24
-    startMessage ()#line:25
+    startMessage ()
     
 
 
